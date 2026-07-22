@@ -1,0 +1,6 @@
+{
+  "name": "AEGIS",
+  "description": "AI-Powered Personal Safety Operating System for Women",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
